@@ -1,0 +1,6 @@
+sno,emp_id,emp_name,reporting_mgr,seniority,dept,expected_targets,actual_targets,actual_working_hrs
+1,101,sam,rahul,junior,IT,10,6,50
+2,103,rahul,manish,mid_senior,engineering,9,5,75
+3,104,john,rahul,senior,engineering,8,8,50
+4,105,alice,manish,junior,finance,7,5,75
+5,2,manish,manish,senior,management,6,5,30
